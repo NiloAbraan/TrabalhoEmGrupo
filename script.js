@@ -6,15 +6,15 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Assim que saiu da escola você se depara com uma encruzilhada, desistir de seus sonhos ou continuar tentando ate conseguir seus sonhos.Qual o primeiro pensamento?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto: "Irei desistir!",
+                afirmacao: "No início foi um sentimento bom mais ao momentaneo, ao passar do tempo você viu que nao era a opção certa."
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: "Não irei desistir!",
+                afirmacao: "No início foi difícil, foi complicado, foi triste, mais após conquistar aquilo que almejava, tudo fez sentido."
             }
         ]
     },

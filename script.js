@@ -19,15 +19,15 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "por ter desistindo vc viu todos seus amigos ganhando na vida, e aquele sentimento ruim vem a tona mostrando que não foi a opção certa. O que vc pretende fazer agr?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: "vc pretende fazer uma faculdade para ter pelo menos alguma coisa na vida",
+                afirmacao: "Vc conseguiu terminar a faculdade mais não conseguiu aquilo que vc queria, e vive o resto da sua vida como uma pessoa normal."
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                texto: "você continua a viver sua vida como sempre viveu mesmo estando triste e sem motivação.",
+                afirmacao: "você vive o resto da sua vida mal até porque nunca fez nada para ter algo de renome então vive trabalhando para sobreviver."
             }
         ]
     },
@@ -111,3 +111,4 @@ function mostraResultado() {
 }
 
 mostraPergunta();
+
